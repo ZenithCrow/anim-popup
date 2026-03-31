@@ -1,6 +1,6 @@
 .{
     .name = .anim_popup,
-    .version = "0.0.0",
+    .version = "0.1.0",
     .fingerprint = 0x5d38e2dc109383ed, // Changing this has security and trust implications.
     .minimum_zig_version = "0.15.2",
     .dependencies = .{},
